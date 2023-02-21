@@ -1,20 +1,5 @@
 # Hi there I'm Mrthomas20121 👋
-Currently looking for a job in web dev.
-
-## Programming language i know
-- Javascript
-- Java
-- Csharp
-- Python
-- HTML/CSS
-- PHP
-
-## Tools i know and use/have used
-- Git
-- NodeJS
-- Intellij Idea(Java dev)
-- Pug(a bit similar to React/VueJS but uses its own language to do everything)
-- Microsoft Office tools(office, powerpoint, excel)
+Currently looking for a job in web dev(view my CV at mrthomas20121.fr/cv/english.html).
 
 ## projects
 - Minecraft mods(https://github.com/Mrthomas20121-Mods)
