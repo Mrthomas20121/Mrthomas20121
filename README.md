@@ -1,17 +1,5 @@
 # Hi there I'm Mrthomas20121 👋
-## F.A.Q :
-#### How old are you?
-i'm 26 years old
-#### Any Hobbies?
-yes, i like Rock climbing and skiing.
-#### Where are you from?
-i'm French.
-#### What is your current job?
-i don't have a job. i'm looking for one(in web dev)
-
-## language i speak
-- french
-- english
+Currently looking for a job in web dev.
 
 ## Programming language i know
 - Javascript
@@ -26,7 +14,7 @@ i don't have a job. i'm looking for one(in web dev)
 - NodeJS
 - Intellij Idea(Java dev)
 - Pug(a bit similar to React/VueJS but uses its own language to do everything)
-- Microsoft Office tools(office, power point, excel)
+- Microsoft Office tools(office, powerpoint, excel)
 
 ## projects
 - Minecraft mods(https://github.com/Mrthomas20121-Mods)
