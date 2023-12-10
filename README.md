@@ -1,5 +1,5 @@
 # Hi there I'm Mrthomas20121 👋
-I make minecraft mods and javascript tools in my free time. currently jobless.
+I make minecraft mods and javascript tools in my free time.
 
 ## inquiries
 - want to hire me for a project? hit me up on twitter(@Mrthomas20121), discord(Mrthomas20121#9637) or via email(mrthomas20121@gmail.com), i won't do any crypto stuff but open for anything else. see my CV here https://mrthomas20121.fr/cv/english.html
