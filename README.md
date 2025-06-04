@@ -1,7 +1,13 @@
-# Hi there I'm Mrthomas20121 👋
+# Hello there I'm Mrthomas20121 👋
 I make minecraft mods and javascript tools in my free time.
 
+## Programming Language I have worked with:
+Java, Javascript, Python, PHP, C#
+
+## OS and Apps I use : 
+Intellij Idea, VS Code, Windows 11, Aseprite, Github desktop, Pixel Composer, Paint.net and Affinity Photo/Designer.
+
 ## inquiries
-- want to hire me for a project? shoot me an email at mrthomas20121@gmail.com, I won't do crypto or shady stuff.
-- need a minecraft mod? you can request me on a mod on ko-fi page here => https://ko-fi.com/mrthomas20121, I don't do big mods(e.g thermal expansion, Create) and I don't do fabric, only forge and soon neoforge.
-- want to hire me for minecraft related stuff? shoot me an email at mrthomas20121@gmail.com
+If you wish to contact me for a project or something, send me an email at mrthomas20121@proton.me
+
+I do not do crypto, nft and stuff like that. 
