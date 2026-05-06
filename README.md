@@ -3,8 +3,8 @@ I'm a web dev who make minecraft mods in his free time.
 
 My main code editor is vs code and intellij idea for java
 
-## Here the computer language I know(I don't mean just programming languages): 
-html, css, python, javascript, typescript, php, c#, visual basic script(vbs), sql
+## Here the programming language I know and have used: 
+java, python, javascript, typescript, php, c#, visual basic script(vbs), zenscript/zencode(it's only used by the crafttweaker minecraft mod)
 
 ## Tools I use/have used
 Symphony(php framework, although that was a long time ago), nodejs, microsoft word suite, paint.net, affinity softwares(v2)
